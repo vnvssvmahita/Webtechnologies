@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>
+		First HTML Hello Project 
+	</title>
+</head>
+<body>
+<pre>
+&lt;html&gt;
+&lt;head&gt; 
+  &lt;title&gt;Hello Word Projecy&lt;/title&gt; 
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;p&gt;Hello Word!&lt;/p&gt;
+ &lt;/body&gt; 
+&lt;/html&gt;
+</pre>
+</body>
+</html>
